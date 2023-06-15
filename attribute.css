@@ -1,3 +1,6 @@
 a[target] {
     background-color: darkblue;
 }
+a:hover {
+    background-color: aquamarine;
+}
